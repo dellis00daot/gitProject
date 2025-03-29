@@ -1,1 +1,8 @@
-<h1> set color = red:<?red>
+
+body {
+  background-color:red;
+}
+
+h1 {
+  color:ggreen;
+}
